@@ -196,7 +196,9 @@ D-85748 Garching b. Muenchen
 Citation
 --------
 
-"IPv4 PACKET TRANSMITTER by Nikolaos Alachiotis and Alexandros Stamatakis, The Exelixis Lab, TU Munich, distributed by the authors via  http://wwwkramer.in.tum.de/exelixis/"
+By using this component in any architecture design and associated publication, you agree to cite it as: 
+"Efficient PC-FPGA Communication over Gigabit Ethernet", by Nikolaos Alachiotis, Simon A. Berger and Alexandros Stamatakis, 
+IEEE ICESS 2010, June/July 2010.
 
 
 Copyright 
@@ -209,7 +211,7 @@ IPv4 PACKET TRANSMITTER by Nikolas Alachiotis and Alexandros Stamatakis, The Exe
 http://wwwkramer.in.tum.de/exelixis/
 
 You can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
+it under the terms of the GNU Lesser General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
 (at your option) any later version.
 
